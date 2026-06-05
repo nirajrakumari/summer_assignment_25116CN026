@@ -1,3 +1,4 @@
+// to print fibonacci series
 #include<stdio.h>
 int main(){
     //intializing a as 0 and b as 1

@@ -1,3 +1,4 @@
+// to find the product of the digits of a number
 #include<stdio.h>
 int main(){
     //intializing product as 1

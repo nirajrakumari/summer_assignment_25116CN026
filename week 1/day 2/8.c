@@ -1,3 +1,4 @@
+// to check whether the number is palindrome or not
 #include<stdio.h>
 int main(){
     //intializing r as 0

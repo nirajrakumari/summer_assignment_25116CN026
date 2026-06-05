@@ -1,3 +1,4 @@
+// to print the reverse of the number
 #include<stdio.h>
 int main(){
     //intializing r as 0

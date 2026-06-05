@@ -1,3 +1,4 @@
+// to check whether the number is prime or not
 #include<stdio.h>
 int main (){
     //initializing count as 0

@@ -1,3 +1,4 @@
+// to print nth term of the fibonacci series
 #include<stdio.h>
 int main(){
     //initializing a as 0 and b as 1

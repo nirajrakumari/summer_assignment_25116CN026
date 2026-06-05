@@ -1,3 +1,4 @@
+// to print the sum of first n natural numbers
 #include<stdio.h>
 int main(){
     // initializing sum as 0

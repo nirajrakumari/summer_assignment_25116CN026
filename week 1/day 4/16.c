@@ -1,3 +1,4 @@
+// to print all armstrong numbers in the given range
 #include<stdio.h>
 #include<math.h>
 int main(){

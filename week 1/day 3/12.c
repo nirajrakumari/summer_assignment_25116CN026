@@ -1,3 +1,4 @@
+// to calculate lcm of  two numbers
 #include<stdio.h>
 int gcd(int n,int m){
     // to calculate gcd

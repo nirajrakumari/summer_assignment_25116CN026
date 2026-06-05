@@ -1,3 +1,4 @@
+// to print the factorial of the given number
 #include<stdio.h>
 int main(){
     // initializing factor as 1

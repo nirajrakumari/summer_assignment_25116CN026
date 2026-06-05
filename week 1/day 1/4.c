@@ -1,3 +1,4 @@
+// to print the no of digits in the number
 #include<stdio.h>
 int main(){
     // initializing count as 0

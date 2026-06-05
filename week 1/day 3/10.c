@@ -1,3 +1,4 @@
+// to print all prime numbers in the given range
 #include<stdio.h>
 //function to calculate prime number
 int prime(int x){  
